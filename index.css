@@ -1,0 +1,54 @@
+body {
+    background-image: url("yellowbird-ontree.jpeg");
+    background-size: cover ;
+    font-family: 'Comfortaa', cursive;
+    font-weight: bold;
+    text-align: center;
+    color:#ffdab9;
+    height:100vh;
+}
+
+.container{
+    Background:rgba(147, 139, 139, 0.5);
+    
+   
+    
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-weight: 700;
+    
+}
+
+h2 {
+    font-size: 50px;
+    font-weight: 700;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+p{
+    font-size: 1em;
+}
+
+button {
+    border: 1px solid #ffffff;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 25px;
+}
+
+#increment-btn {
+    background: #E83F6F;
+}
+
+#save-btn {
+    background: #2274A5;
+}
+
